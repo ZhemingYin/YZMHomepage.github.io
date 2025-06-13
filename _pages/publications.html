@@ -6,50 +6,12 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-<div class="wordwrap">
-  You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-</div>
-{% endif %}
-
-<!-- Single publication entry -->
-<div class="pub-entry">
-  <div class="pub-left">
-    <span class="pub-label">Preprint</span>
-  </div>
-  <div class="pub-right">
-    <div class="pub-title"><b>Coding Agents with Multimodal Browsing are Generalist Problem Solvers</b></div>
-    <div class="pub-authors">
-      Aditya Bharat Soni, Boxuan Li, <u>Xingyao Wang</u>, Valerie Chen, and Graham Neubig
-    </div>
-    <div class="pub-meta">Arxiv preprint, Jun 2025</div>
-    <div class="pub-buttons">
-      <a class="pub-btn" href="LINK_TO_PAPER" target="_blank">PAPER</a>
-      <a class="pub-btn" href="LINK_TO_CODE" target="_blank">CODE</a>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-<!-- ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+{% include ../_publications/publications.md %}
+
+<!-- {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
