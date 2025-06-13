@@ -13,7 +13,7 @@ Hi, there! My name is **Zheming Yin** (尹哲铭). I have finished the study Ele
 - **04/2024 - 04/2025, Bosch**
 	- Working Student
 
-- **05/2023 - 11/2024, IMSB & HCI-CS Institutes at University of Stuttgart**
+- **05/2023 - 11/2024, IMSB & CAI Institutes at University of Stuttgart**
 	- Research Assistant
 
 
