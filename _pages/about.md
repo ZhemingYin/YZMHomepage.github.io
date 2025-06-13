@@ -2,9 +2,7 @@
 permalink: /about/
 title: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 Hi, there! I'm **Zheming Yin** (尹哲铭). I have finished the study Eletromobility M.Sc. at University of Stuttgart in April 2025. Before that, I got my B.Sc. in Automotive Engineering from Northeastern University.
