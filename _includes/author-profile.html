@@ -67,11 +67,10 @@
       {% endif %}
 
       {% if author.languages %}
-        <div class="author__languages">
-          <i class="fas fa-fw fa-language" aria-hidden="true"></i> {{ author.languages }}
-        </div>
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-language icon-pad-right" aria-hidden="true"></i>{{ author.languages }}
+        </li>
       {% endif %}
-
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
