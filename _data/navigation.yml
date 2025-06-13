@@ -12,7 +12,7 @@ main:
     url: /about/
   
   - title: "Publications"
-    url: /publication_list/
+    url: ../_pages/publication_list.md
 
   # - title: "Talks"
   #   url: /talks/    
@@ -27,7 +27,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /https://drive.google.com/file/d/17iuU3K9OhcB8MPtHKehtEjat8jtEU58-/view?usp=share_link/
+    url: https://drive.google.com/file/d/17iuU3K9OhcB8MPtHKehtEjat8jtEU58-/view?usp=share_link
     
   # - title: "CV"
   #   url: /cv-json/
