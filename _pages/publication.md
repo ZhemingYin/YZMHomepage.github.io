@@ -18,4 +18,4 @@ redirect_from:
 	
 - **Hybrid baseband simulation for single-channel radar-based indoor localization system**<br>
 	Sven Hinderer, **Zheming Yin**, Athanasios Papanikolaou, Jan Hesselbarth, Bin Yang<br>
-	under review at **IRS 2025**, **oral presentation** <br>
+	**under review** at **IRS 2025**, **oral presentation** <br>
