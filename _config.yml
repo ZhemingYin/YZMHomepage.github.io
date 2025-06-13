@@ -43,7 +43,7 @@ author:
   scopus           : # URL
 
   # Languages
-  languages: English, German, Mandarin Chinese
+  languages: English, German, Chinese
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
