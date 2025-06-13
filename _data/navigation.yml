@@ -12,7 +12,7 @@ main:
     url: /about/
   
   - title: "Publications"
-    url: ../_pages/publication_list.md
+    url: /publication/
 
   # - title: "Talks"
   #   url: /talks/    
