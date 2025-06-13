@@ -66,6 +66,13 @@
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
+      {% if author.languages %}
+        <div class="author__languages">
+          <i class="fas fa-fw fa-language" aria-hidden="true"></i> {{ author.languages }}
+        </div>
+      {% endif %}
+
+
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
