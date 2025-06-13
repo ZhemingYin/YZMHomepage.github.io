@@ -22,7 +22,7 @@ repository               : "ZhemingYin/YZMHomepage.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../self_images/portrait2.png"
+  avatar           : "../self_images/portrait1.png"
   name             : "Zheming Yin"
   pronouns         : # example: "he/him/his"  
   bio              : "M.Sc. in Electromobility at Uni Stuttgart"
