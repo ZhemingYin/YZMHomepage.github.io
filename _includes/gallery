@@ -1,3 +1,13 @@
+---
+permalink: /gallery/
+title: "Publication"
+author_profile: true
+redirect_from: 
+  - /photos/
+  - /photography.html
+---
+
+
 {% include base_path %}
 
 {% if include.id %}
