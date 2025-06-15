@@ -7,7 +7,7 @@ author_profile: true
 
 Hi, there! My name is **Zheming Yin** (尹哲铭). I have finished the study Eletromobility M.Sc. at University of Stuttgart in April 2025. Before that, I got my B.Sc. in Automotive Engineering from Northeastern University.
 
-**I am currently seeking PhD opportunity** and broadly interested in the machine learning, computer vision, HCI, autonomous system, image processing and so on. If you have any PhD opening, research intern or similarly, feel free to contact me :D.
+**I am currently seeking PhD opportunity** and broadly interested in the machine learning, computer vision, HCI, autonomous system, image processing and so on. If you have any PhD, research intern openings or similarly, feel free to contact me :D.
 
 ## Experiences
 - **04/2024 - 04/2025, Bosch, Stuttgart**
