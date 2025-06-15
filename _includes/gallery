@@ -7,6 +7,12 @@ redirect_from:
   - /photography.html
 ---
 
+gallery:
+  - image_path: "self_images/galleries/14.jpg"
+  - image_path: "self_images/galleries/17.jpg"
+  - image_path: "self_images/galleries/18.jpg"
+
+
 
 {% include base_path %}
 
